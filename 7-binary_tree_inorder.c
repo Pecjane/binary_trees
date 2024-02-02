@@ -1,5 +1,6 @@
  #include "binary_trees.h"
 
+/**
  * @tree: tree to go through
  * @func: function to use is this
  * Return: Nothing is returned
