@@ -1,9 +1,10 @@
- #include "binary_trees.h"
-
+#include "binary_trees.h"
 /**
- * @tree: tree to go through
+ * binary_tree_inorder -  binary tree using in-order traversal
+ * tree using in-order traversal
+ * @tree: to measure a tree
  * @func: function to use is this
- * Return: Nothing is returned
+ * Return: returned nothing
  */
 void binary_tree_inorder(const binary_tree_t *tree, void (*func)(int))
 {
