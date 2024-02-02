@@ -4,7 +4,7 @@
  * binary_tree_uncle - finds the uncle of a node.
  * @node: a pointer to the node to find the sibling.
  * Return: NULL if node is NULL 
- 	   if node has no uncle,
+ if node has no uncle,
  * pointer to the uncle node.
  */
 

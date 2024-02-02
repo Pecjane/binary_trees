@@ -4,8 +4,8 @@
  * binary_tree_sibling - finds the sibling of a node.
  * @node: a pointer to the node to find the sibling.
  * Return: NULL if node is NULL 
-           parent is NULL 
-	   doesn't have a sibling,
+ parent is NULL 
+ doesn't have a sibling,
  * a pointer to the sibling node.
  */
 
